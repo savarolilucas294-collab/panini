@@ -107,7 +107,7 @@ body {
     display: inline-flex; /* respeita a largura do conteúdo */
     justify-content: center;
     align-items: center;
-    background-color: #28c76f;
+    background-color:  #32c964;
     color: black;
     padding: 10px 55px; /* botão mais “gordinho” */
     border: none;
