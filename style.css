@@ -69,6 +69,9 @@ body {
  display: flex;
  
 }
+.Pacotesdefigutinhas1{
+     justify-content: center;
+}
 .figurinha1{
    width: 80%;
 }
@@ -108,7 +111,7 @@ body {
     justify-content: center;
     align-items: center;
     background-color:  #32c964;
-    color: black;
+    color: rgb(255, 255, 255);
     padding: 10px 55px; /* botão mais “gordinho” */
     border: none;
     border-radius: 5px;
@@ -304,3 +307,6 @@ h6{
     font-weight: 100;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+
+
+
